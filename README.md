@@ -1,16 +1,23 @@
-### Hi there 👋
+## Olá, sou a Milena Santos! 👋
 
-<!--
-**MilenaCVT/MilenaCVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Estudante de **Banco de Dados**, **Big Data** e **BI** na **Universidade São Judas Tadeu**.
+- 🌐 Apaixonada por dados e análise, estou sempre em busca de novos desafios.
+- 💡 Interessada em aprender e aplicar técnicas de **Machine Learning** e **Data Science**.
+- 📊 Adoro explorar dados, criar visualizações e descobrir insights valiosos.
+- 🚀 Buscando contribuir para projetos open source e expandir meu conhecimento.
+- 📚 Atualmente estudando [Modelagem de Software] e [Soluções de Soluções Computacionais] na universidade.
+- 📫 Entre em contato: www.linkedin.com/in/milena-santos-001464254 | milenasantoscvt@gmail.com
 
-Here are some ideas to get you started:
+Vamos conectar e compartilhar conhecimento! 😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MilenaCVT&include_all_commits&count_private=true&show_icons=true&theme=dracula)
+  =[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MilenaCVT&layout=compact&theme=dracula)](https://github.com/MilenaCVT/github-readme-stats)
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Data" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+          
+</div>
