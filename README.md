@@ -6,7 +6,7 @@
 - 📊 Adoro explorar dados, criar visualizações e descobrir insights valiosos.
 - 🚀 Buscando contribuir para projetos open source e expandir meu conhecimento.
 - 📚 Atualmente estudando [Modelagem de Software] e [Soluções de Soluções Computacionais] na universidade.
-- 📫 Entre em contato: www.linkedin.com/in/milena-santos-001464254 | milenasantoscvt@gmail.com
+- 📫 Entre em contato: www.linkedin.com/in/milenasantoscvt | milenasantoscvt@gmail.com
 
 Vamos conectar e compartilhar conhecimento! 😊
 
